@@ -21,7 +21,7 @@ console.log(minElement);
 function findSum(arr3) {
   let sum = 0;
   for (let i = 0; i < arr.length; i++) {
-    sum += arr3[i];
+    sum += arr[i];
   }
   return sum;
 }
